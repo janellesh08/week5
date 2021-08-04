@@ -1,0 +1,34 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    background-color: aqua;
+    text-align: center;
+}
+
+/* h1{
+    margin-left: 400px;
+    
+} */
+
+#searchDiv{
+    display: flex;
+    margin-left: 480px;
+    
+}
+
+#weatherDiv{
+    display: flex;
+    flex-direction: column;
+    
+
+}
+
+#weatherDiv li{
+    justify-content: center;
+    list-style: none;
+}
+
+#weatherList{
+    background-color: yellow;
+}
